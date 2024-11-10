@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dimad\\Desktop\\volkov-dp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80872F64-C740-4A0F-9895-92B91359C9A5}|volkov-dp\\volkov-dp.csproj|c:\\users\\dimad\\desktop\\volkov-dp\\volkov-dp\\views\\notepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80872F64-C740-4A0F-9895-92B91359C9A5}|volkov-dp\\volkov-dp.csproj|solutionrelative:volkov-dp\\views\\notepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80872F64-C740-4A0F-9895-92B91359C9A5}|volkov-dp\\volkov-dp.csproj|c:\\users\\dimad\\desktop\\volkov-dp\\volkov-dp\\views\\allnotespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80872F64-C740-4A0F-9895-92B91359C9A5}|volkov-dp\\volkov-dp.csproj|solutionrelative:volkov-dp\\views\\allnotespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dimad\\Desktop\\volkov-dp\\volkov-dp\\Views\\NotePage.xaml.cs",
+              "RelativeDocumentMoniker": "volkov-dp\\Views\\NotePage.xaml.cs",
+              "ToolTip": "C:\\Users\\dimad\\Desktop\\volkov-dp\\volkov-dp\\Views\\NotePage.xaml.cs",
+              "RelativeToolTip": "volkov-dp\\Views\\NotePage.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T06:13:51.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AllNotesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dimad\\Desktop\\volkov-dp\\volkov-dp\\Views\\AllNotesPage.xaml.cs",
+              "RelativeDocumentMoniker": "volkov-dp\\Views\\AllNotesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\dimad\\Desktop\\volkov-dp\\volkov-dp\\Views\\AllNotesPage.xaml.cs",
+              "RelativeToolTip": "volkov-dp\\Views\\AllNotesPage.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T06:12:37.694Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
